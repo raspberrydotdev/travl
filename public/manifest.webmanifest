@@ -1,0 +1,18 @@
+
+{
+  "name": "Travel Planner",
+  "short_name": "Trip Planner",
+  "description": "Our shared group travel itinerary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF5ED",
+  "theme_color": "#FAF5ED",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
